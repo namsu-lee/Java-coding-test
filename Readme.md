@@ -26,8 +26,8 @@
 <td>00.문법</td>
 <td>
 
-[기본 자료형](/Chapter.00.Syntax/기본자료형.md) </br>
-[입출력](/Chapter.00.Syntax/입출력.md)
+[기본 자료형](/Chapter_00_Syntax/기본자료형.md) </br>
+[입출력](/Chapter_00_Syntax/입출력.md)
 
 </td>
 <td></td>
@@ -37,7 +37,7 @@
 <td>01.알고리즘 성능 분석</td>
 <td>
 
-[알고리즘 성능 분석](/Chapter.01.Analyze.of.Algorithm/알고리즘%20성능%20분석.md)
+[알고리즘 성능 분석](/Chapter_01_Analyze_of_Algorithm/알고리즘%20성능%20분석.md)
 
 </td>
 <td></td>
@@ -47,13 +47,13 @@
 <td>02.문자열</td>
 <td>
 
-[개념 및 메서드](/Chapter.02.String/문자열.md) </br>
-[정규식](/Chapter.02.String/정규식.md)
+[개념 및 메서드](/Chapter_02_String/문자열.md) </br>
+[정규식](/Chapter_02_String/정규식.md)
 
 </td>
 <td>
 
-[문제목록](/Chapter.02.String/문제목록.md)
+[문제목록](/Chapter_02_String/문제목록.md)
 
 </td>
 </tr>
