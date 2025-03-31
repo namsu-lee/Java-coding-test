@@ -37,9 +37,7 @@
 <td>01.알고리즘 성능 분석</td>
 <td>
 
-<!-- [자료형](/00.Syntax/) </br>
-[입출력](/00.Syntax/) </br>
-[정규식](/00.Syntax/) </br> -->
+[알고리즘 성능 분석](/Chapter.01.Analyze.of.Algorithm/알고리즘%20성능%20분석.md)
 
 </td>
 <td></td>
