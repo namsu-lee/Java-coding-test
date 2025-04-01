@@ -68,7 +68,7 @@
 </td>
 <td>
 
-[문제목록](/Chapter_02_String/문제목록.md)
+[문제목록](/Chapter_03_Array/문제목록.md)
 
 </td>
 </tr>
