@@ -58,6 +58,21 @@
 </td>
 </tr>
 
+<tr>
+<td>03.배열</td>
+<td>
+
+[개념 및 메서드](/Chapter_03_Array/배열.md) </br>
+[ArrayList](/Chapter_03_Array/ArrayList.md)
+
+</td>
+<td>
+
+[문제목록](/Chapter_02_String/문제목록.md)
+
+</td>
+</tr>
+
 </table>
 
 ## 난이도 참고
